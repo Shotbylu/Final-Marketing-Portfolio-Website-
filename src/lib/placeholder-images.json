@@ -1,0 +1,70 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-bg",
+      "description": "Abstract technology background for hero section",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&q=80&w=2000",
+      "imageHint": "abstract data"
+    },
+    {
+      "id": "profile-pic",
+      "description": "Portrait of Lungelo Sibisi",
+      "imageUrl": "/assets/campaigns/IMG_1.jpg",
+      "imageHint": "man portrait"
+    },
+    {
+      "id": "project-1",
+      "description": "Mazda Brand Meaning project image",
+      "imageUrl": "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?auto=format&fit=crop&q=80&w=800",
+      "imageHint": "red car"
+    },
+    {
+      "id": "project-2",
+      "description": "Visual Lab Platform project image",
+      "imageUrl": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&q=80&w=800",
+      "imageHint": "data charts"
+    },
+    {
+      "id": "project-3",
+      "description": "Mazda2 Retail Promo project image",
+      "imageUrl": "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?auto=format&fit=crop&q=80&w=800",
+      "imageHint": "classic car"
+    },
+    {
+      "id": "project-4",
+      "description": "AutoML Studio MCP project image",
+      "imageUrl": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?auto=format&fit=crop&q=80&w=800",
+      "imageHint": "code screen"
+    },
+    {
+      "id": "project-5",
+      "description": "MazdaCare Warranty project image",
+      "imageUrl": "https://images.unsplash.com/photo-1485291571150-772bcfc10da5?auto=format&fit=crop&q=80&w=800",
+      "imageHint": "car service"
+    },
+    {
+      "id": "project-6",
+      "description": "Motion-Control Ping Pong project image",
+      "imageUrl": "https://images.unsplash.com/photo-1611252942082-43d57f34b204?auto=format&fit=crop&q=80&w=800",
+      "imageHint": "ping pong"
+    },
+    {
+      "id": "project-7",
+      "description": "South32 Hillside Series project image",
+      "imageUrl": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?auto=format&fit=crop&q=80&w=800",
+      "imageHint": "factory worker"
+    },
+    {
+      "id": "project-8",
+      "description": "Initium Integrated project image",
+      "imageUrl": "https://images.unsplash.com/photo-1434626881859-194d67b2b86f?auto=format&fit=crop&q=80&w=800",
+      "imageHint": "strategy meeting"
+    },
+    {
+      "id": "project-9",
+      "description": "Sasol Strategic Comms project image",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&q=80&w=800",
+      "imageHint": "city building"
+    }
+  ]
+}
